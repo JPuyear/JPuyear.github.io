@@ -1,26 +1,25 @@
 ---
-title: "resume"
+title: "Resume"
 format: html
 editor: visual
+css: 2025-02-15-personal-website-styles.css
 ---
 
-## Quarto
+<h1>Macroinvertebrate Lab Technician | <i>Preston Lab, Colorado State University</i></h1>
+<ul>
+  <li>Identifies key macroinvertebrate orders with dissecting microscope</li>
+  <li>Adjusts amount of macroinvertebrate sample viewed in dish to expedite thorough data collection</li>
+  <li>Maintains clean work station by wiping down microscope, sorting tweezers, and sorting samples</li>
+ <li>Coordinates lab attendance with research partners to standardize order identification methodology</li>
+</ul>
+ 
+ 
+<h1>Environmental Educator | <i>Environmental Learning Center, Fort Collins, CO</i></h1>
+<ul>
+  <li>Tailored separate weeklong ecology activity plans to three age groups 6-12, boosting engagement</li>
+  <li>Integrated compost, watered, seeded, planted, and devised natural pesticides for a community garden</li>
+  <li>Guided willow stake harvesting and cultivation for students</li>
+  <li>Reinforced existing compost bins for five more years of heavy use</li>
+  <li>Explained unique landscape features to students on walks to forge lifelong bonds to nature</li>
+</ul>
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
-
-## Running Code
-
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
-
-```{r}
-1 + 1
-```
-
-You can add options to executable code like this
-
-```{r}
-#| echo: false
-2 * 2
-```
-
-The `echo: false` option disables the printing of code (only output is displayed).
