@@ -1,5 +1,5 @@
 ---
-title: "Joshua Puyear"
+title: "Meet Josh"
 about:
   template: jolla
 ---
