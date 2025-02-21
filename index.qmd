@@ -15,8 +15,7 @@ about:
     - text: GitHub
       icon: github
       href: https://github.com/JPuyear
-    - text: Email
-      href: joshpcuriosity@gmail.com
+    - text: joshpcuriosity@gmail.com
       
 
 ---
