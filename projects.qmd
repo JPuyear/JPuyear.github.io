@@ -27,7 +27,7 @@ toc: false
 <li>I created weed management zones with ArcGIS Field Maps and designed a layout </li>
 </ul>
 
- <h3>[Cacao Agroforestry: Macroinvertebrates in Chakra Understories](data/cacao-macros.pdf)</h3>
+ <h3>[Cacao Agroforestry: Macroinvertebrates in Chakra Understories](data/cacao-macros.pdf) </h3>
 
 ![A Chakra is an agroecosystem and an important aspect of Kichwa spirituality](imgs/chakra.jpg)
  
