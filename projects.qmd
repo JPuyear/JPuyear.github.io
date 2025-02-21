@@ -51,4 +51,4 @@ In ecosystem science 330, I’ve worked on data analysis projects with RStudio t
 <li>I learned the basics of .html, .qmd, and .css file extension syntax </li>
 </ul>
 
-<h5>[Using dplyr verbs with COVID data](06-exercise.qmd)</h5>
+<h5>[Using dplyr verbs with COVID data](06-exercise.html)</h5>
