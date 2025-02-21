@@ -1,0 +1,25 @@
+---
+title: "Meet Josh"
+format: html
+output-file: about-page.html
+listing: false
+
+---
+
+
+In my undergrad, I’ve had the opportunity to approach land management from many angles: writing monitoring objectives, assessing vegetation, and leading restoration activities. Along the way, I’ve become adept at understory plant identification and forestry measurements in the Front Range. To address monitoring logistics, I’ve made aesthetically pleasing maps, incorporating my knowledge of graphic design principles into cartography.
+
+
+I take a creative approach towards my projects. During trail work, I’ve developed an eye for rock check and step dams on trails and have grown confident rock shopping.
+
+
+! [A great fit!](imgs/rock.jpg)
+
+
+I’m inquisitive and open to learning new perspectives. My excitement about nature spreads to the campers I work with at the Environmental Learning Center. In August 2024, I built a boat on one of the last days of camp so kids could float around an eddy on the Poudre River. One of the activities I’m most proud of was unplanned: leading kids to a five-minute silent observation of nature was a favorite activity of the summer.
+
+![At the Environmental Learning Center Community Garden](imgs/elc-zucchini.jpg)
+
+
+![Horned Lizard, one of my favorite plains animals](imgs/soapstone-toad.jpg)
+![After a day with Wildlands Restoration Volunteers](imgs/wrv-kaw.jpg)
