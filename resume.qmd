@@ -1,8 +1,6 @@
 ---
-title: "My Resume"
-image:
+title: "Resume Highlights"
 toc: false
-
 ---
 
 

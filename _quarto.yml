@@ -4,7 +4,7 @@ project:
 website:
   title: "Joshua Puyear"
   page-footer: 
-    left: "Josh Puyear, 2025" 
+    left: "@JPuyear, 2025" 
     right:
       - icon: github
         href: https://github.com/JPuyear
@@ -16,12 +16,14 @@ website:
         text: Home
       - href: about.qmd
         text: About Me
-      - href: resume.qmd
-        text: Resume Highlights
       - href: projects.qmd
         text: Studies and Projects
+      - href: resume.qmd
+        text: Resume Highlights
+      
      
 format:
   html:
-    theme: styles.scss
+    theme: scss/styles.scss
     toc: true
+    page-layout: full

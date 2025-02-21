@@ -1,7 +1,7 @@
 ---
-title: About Me
-image: imgs/elc-zucchini.jpg
-toc: false
+title: "Joshua Puyear"
+about:
+  template: jolla
 ---
 
 
@@ -15,6 +15,8 @@ I take a creative approach towards my projects. During trail work, I’ve develo
 
 
 I’m inquisitive and open to learning new perspectives. My excitement about nature spreads to the campers I work with at the Environmental Learning Center. In August 2024, I built a boat on one of the last days of camp so kids could float around an eddy on the Poudre River. One of the activities I’m most proud of was unplanned: leading kids to a five-minute silent observation of nature was a favorite activity of the summer.
+
+![At the Environmental Learning Center Community Garden](imgs/elc-zucchini.jpg)
 
 
 ![Horned Lizard, one of my favorite plains animals](imgs/soapstone-toad.jpg)
