@@ -1,1 +1,0 @@
-In my website, you'll learn about my passions and experiences related to my career as a naturalist.

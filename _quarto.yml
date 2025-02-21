@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+website:
+  title: "Joshua Puyear"
+  page-footer: 
+    left: "Josh Puyear, 2025" 
+    right:
+      - icon: github
+        href: https://github.com/JPuyear
+      - icon: linkedin
+        href: https://linkedin.com/in/joshua-puyear
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About Me
+      - href: resume.qmd
+        text: Resume Highlights
+      - href: projects.qmd
+        text: Studies and Projects
+     
+format:
+  html:
+    theme: styles.scss
+    toc: true

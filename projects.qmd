@@ -1,0 +1,53 @@
+---
+title: "Projects"
+toc: false
+
+---
+
+
+
+<h3> [Robert’s Ranch wetland vegetation monitoring](data/CV_2024_Monitoring_FinalDraft.pdf)</h3>
+
+![Robert's Ranch Transects](imgs/cv-transect-view.jpg)
+
+<ul>
+<li>In autumn 2024, I led groups of students to a ranch north of Fort Collins to identify plants behind beaver mimicry structures. </li>
+<li>I synthesized analyses from previous reports to present clearer monitoring objectives </li>
+<li>I helped develop and teach strategies for forensic grass identification </li>
+<li>I updated a map of data collection plots on ArcGIS Pro and uploaded to Avenza </li>
+</ul>
+
+
+<h3>[North Shields Ponds Weed Management Plan](data/weed-management.pdf)</h3>
+
+![North Shields Ponds Management Zones](imgs/north-shields-map.png)
+
+<ul>
+<li>I interviewed a Fort Collins Natural Areas steward about current management priorities </li>
+<li>I identified critical habitat zones to inform priority weed management areas </li>
+<li>I created weed management zones with ArcGIS Field Maps and designed a layout </li>
+</ul>
+
+ <h3>[Cacao Agroforestry: Macroinvertebrates in Chakra Understories](cacao-macros.pdf)</h3>
+
+![A Chakra is an agroecosystem and an important aspect of Kichwa spirituality](imgs/chakra.jpg)
+ 
+<ul>
+<li> I inventoried macroinvertebrates under trees with aspirators and the berlése method </li>
+<li> I catalogued macroinvertebrate orders in three cultivation styles infer O-matter cycling </li>
+<li>I interviewed indigenous farmers about their knowledge of soil macroinvertebrates </li>
+</ul>
+
+![Semi-open canopies produce some of the world's richest aromatic cacao](imgs/cacao.jpg)
+
+<h3>ESS330 Quantitative Reasoning for Ecosystem Science</h3>
+
+In ecosystem science 330, I’ve worked on data analysis projects with RStudio to make my future research and monitoring efforts more effective.
+
+
+<h5>My personal Website<h5/>
+<ul>
+<li>I created a repository on Github for version control </li>
+<li>I developed a system for effective file storage and organization </li>
+<li>I learned the basics of .html, .qmd, and .css file extension syntax </li>
+</ul>

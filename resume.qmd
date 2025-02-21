@@ -1,0 +1,78 @@
+---
+title: "My Resume"
+image:
+toc: false
+
+---
+
+
+<h2>Work Experience</h2>
+<h3>**Environmental Educator** | <i>Environmental Learning Center, Fort Collins, CO</i>                             May - Aug., 2024 </h3>  
+
+</ul>
+<li>Trained five counselors to create biomimicry-themed crafts to illustrate diverse species adaptations</li>
+<li>Designed, tailored weeklong ecology activity plan to 2nd, 4th, and 5th graders to boost engagement</li>
+<li>Guided students aged 6-12 on bird and plant walks to forge lifelong bonds with nature</li>
+<li>Explained unique wildlife and landscape features in a riparian plains habitat with historical anecdotes to facilitate a sense of history, care, and belonging in nature for students</li>
+<li>Administered first aid for minor cuts and bruises
+Integrated compost, watered, seeded, planted, and devised natural pesticides for a 300 square foot community vegetable and native plant garden</li>
+<li>Tailored a weeklong ecology activity plan to second, fourth, and fifth graders, boosting engagement</li>
+<li>Guided willow stake harvesting and cultivation for students
+Reinforced existing compost bins for five more years of heavy use</li>
+</ul>
+
+
+<h3>**Subalpine Forest Field Technician** | <i>Colorado Forest Restoration Institute, Lake City, CO</i>          Jun. - Aug., 2023 </h3>
+</ul>
+<li>Navigated over 500 miles of 4WD roads to reach nearly 100 plots throughout western Colorado</li>
+<li>Collected snowshoe hare scat to predicting lynx presence, across the Western Slope</li>
+<li>Recorded data on excel with a Juniper Systems Allegro device</li>
+<li>Cataloged spruce beetle infestations on live tree species and decomposition level of dead trees with forestry data techniques:  DBH, canopy cover, and rangefinders to estimate growth over time</li>
+<li>Cooperated with the same crew of three to halve plot completion time from 6hrs to 3hrs</li>
+</ul>
+
+<h2>Academic Involvement</h2>
+<h3>**Honors Thesis Project**: Campbell Creek Wetlands  | <i>Livermore, CO</i>                                            Jun. - Nov., 2024 </h3>
+<h6>3 Credit hours</h6>
+
+<ul>
+<li>Recruited enthusiastic undergraduate volunteers by announcing my project to lecture classes and club</li>
+<li>Explained line-point intercept and Daubenmire methods to recruits to enable future data collection</li>
+<li>Observed 415 data points to assess bare ground or litter substrate coverage across eight plots</li>
+<li>Drove and biked over 6 miles of deeply rutted ranch roads for an hour to arrive at the site</li>
+<li>Taught forensic grass identification strategies to student recruits  
+<li>Mapped plot locations with ESRI ArcGIS Pro, syncing maps with Avenza to specify plot locations</li>
+<li>Introduced photopoints to protocol, recommended surveying software to halve plot completion time</li>
+<li>Designed artificial wetland index with Corps of Engineers indicator values to visualize wetland extent</li>
+<li>Synthesized conclusions from previous monitoring reports in discussion to predict abundant species</li>
+<li>Presented a powerpoint to ranch manager to spur discussions about fence management </li>
+</ul>
+
+<h2>Volunteering</h2>
+
+<h3**Crew Lead and Volunteer for Wildlands Restoration Volunteers (WRV)** | <i>Colorado</i>       Sept.,  2021 - Present</h3>
+
+<h6>Hours volunteered: 270</h6>
+
+<ul>
+<li>Taught crews ergonomic pick mattock, McLeod, and rake use for seeding, raking, and tread cutting</li>
+<li>Constructed rock and mono walls to help build 3000 feet of new 24” Elkhorn Creek Trail</li>
+<li>Instructed six volunteers to select rocks for 25 new drainage structures on Rawah Wilderness trail</li>
+<li>Assisted with camp construction, cooking, and breakdown in Never Summer Wilderness</li>
+<li>Hauled 5000 lbs of rock, gravel, and mineral soil from four 25ft2 borrow pits to build a 30-ft turnpike</li>
+<li>Hauled over 3000 lbs of gravel to protect eroding Pawnee Buttes trail with a pulley system</li>
+<li>Supervised crew member safety during transportation of 300-lb rocks for trail construction with rock webbing, clearing walking paths to the installation site</li>
+<li>Ordered crew to take shelter when a thunderstorm formed, protecting a crew of ten from lightning</li>
+<li>Directed a ten-person crew to decommission 1 mile of USFS road, reseeding a subalpine meadow</li>
+<li> Scored and debarked subalpine fir trees to construct a bridge with five-person crew</li>
+<li> Coordinated carpooling with other volunteers to reduce impact while driving to restoration sites</li>
+<li>Trained instructor in  broadcast seeding, erosion matting, willow stakes restoration strategies</li>
+<li>Brainstormed strategies to include marginalized people into ecological restoration</li>
+<li>Instructed volunteers to build 100 feet of wildlife-friendly barbed wire fences</li>
+<li>Attended course in crew leading to evaluate native seed identification, selection, and processing</li>
+<li>Closed 1000 ft of social trail in Brainard Lake, Colorado to protect high-elevation wetland</li>
+</ul>
+
+
+[Here is the rest of my resume](data/resume-cfri.pdf)
+

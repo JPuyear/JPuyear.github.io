@@ -1,27 +1,24 @@
 ---
-title: "Index"
-format: html
-editor: visual
-styles: 2025-02-15-personal-website-styles.css
+title: "Joshua Puyear"
+image: imgs/elc-profile.jpg
+toc: false
+about: 
+  template: jolla
+  image-shape: rounded
+  image-width: 17 em
+  links:
+    - text: LinkedIn
+      icon: linkedin
+      href: https://www.linkedin.com/in/joshua-puyear/
+    - text: GitHub
+      icon: github
+      href: https://github.com/joshu-puyear
+    - text: Email
+      href: joshpcuriosity@gmail.com
+      
+
 ---
 
-## Quarto
+Hi, I'm Josh! I'm a greenhouse technician at Summit Plant Labs and an educator at the Environmental Learning Center in Fort Collins. I'm interested in incorporating native seed conservation to help communities build a sense of place. In my free time, I enjoy biking, hiking, and playing my songs.
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
-
-## Running Code
-
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
-
-```{r}
-1 + 1
-```
-
-You can add options to executable code like this
-
-```{r}
-#| echo: false
-2 * 2
-```
-
-The `echo: false` option disables the printing of code (only output is displayed).
+[Seed sorting with Wildlands Restoration Volunteers](imgs/seed.jpg)
