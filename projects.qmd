@@ -52,3 +52,6 @@ In ecosystem science 330, I’ve worked on data analysis projects with RStudio t
 </ul>
 
 <h5>[Using dplyr verbs with COVID data](06-exercise.html)</h5>
+
+<h5> [Lab 2: manipulating and summarizing data with dplyr](docs/2-minnesota.html)
+
