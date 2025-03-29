@@ -4,7 +4,6 @@ toc: false
 ---
 
 
-
 <h3> [Robert’s Ranch wetland vegetation monitoring](data/CV_2024_Monitoring_FinalDraft.pdf)</h3>
 
 ![Robert's Ranch Transects](imgs/cv-transect-view.jpg)
