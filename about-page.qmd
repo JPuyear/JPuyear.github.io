@@ -13,7 +13,7 @@ In my undergrad, I’ve had the opportunity to approach land management from man
 I take a creative approach towards my projects. During trail work, I’ve developed an eye for rock check and step dams on trails and have grown confident rock shopping.
 
 
-![A great fit](imgs/rock.jpg)
+![A great fit](./imgs/rock.jpg)
 
 
 I’m inquisitive and open to learning new perspectives. My excitement about nature spreads to the campers I work with at the Environmental Learning Center. In August 2024, I built a boat on one of the last days of camp so kids could float around an eddy on the Poudre River. One of the activities I’m most proud of was unplanned: leading kids to a five-minute silent observation of nature was a favorite activity of the summer.
