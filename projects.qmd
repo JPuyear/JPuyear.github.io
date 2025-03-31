@@ -50,7 +50,16 @@ In ecosystem science 330, I’ve worked on data analysis projects with RStudio t
 <li>I learned the basics of .html, .qmd, and .css file extension syntax </li>
 </ul>
 
-<h5>[Using dplyr verbs with COVID data](06-exercise.html)</h5>
+# [Daily Excercises from ESS330](https://jpuyear.github.io/daily-exercises/)
 
-<h5> [Lab 2: manipulating and summarizing data with dplyr](docs/2-minnesota.html)
+# [Lab 2: manipulating and summarizing data with dplyr](https://jpuyear.github.io/2-minnesota-tree-growth-330/)
+
+# [Lab 3: Visualizing COVID's Takeover](https://jpuyear.github.io/csu-ess-lab3)
+
+
+
+
+
+
+
 
