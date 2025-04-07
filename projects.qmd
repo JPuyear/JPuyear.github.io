@@ -54,7 +54,7 @@ In ecosystem science 330, I’ve worked on data analysis projects with RStudio t
 
 # [Lab 2: manipulating and summarizing data with dplyr](https://jpuyear.github.io/2-minnesota-tree-growth-330/)
 
-# [Lab 3: Visualizing COVID's Takeover](https://jpuyear.github.io/csu-ess-lab3)
+# [Lab 3: Visualizing COVID's Takeover](https://jpuyear.github.io/docs/lab3.html)
 
 
 
