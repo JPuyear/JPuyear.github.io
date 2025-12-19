@@ -4,7 +4,7 @@ toc: false
 ---
 
 <h2>Work Experience</h2>
-<h3>**Conservation Action Facilitator** | <i>John G. Shedd Aquarium, Chicago, IL</i>                             Jun. - Dec., 2025 </h3>  
+<h3>**Conservation Action Facilitator** | <i>John G. Shedd Aquarium, Chicago, IL</i>                             Jun. - Dec., 2025 </h3>
 
 </ul>
 <li>Addressed kayak tour guest questions with enthusiastic anecdotes, fueling further curiosity</li>
