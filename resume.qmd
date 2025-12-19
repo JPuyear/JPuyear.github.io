@@ -15,7 +15,7 @@ toc: false
 <li>Refined a seed gathering system, producing >1500 index cards for common species in three unique habitats</li>
 <li>Facilitated 12 community and corporate cleanup events on three beaches, removing 400 lbs of trash</li>
 <li>Explained plug planting to four 15-100-person groups to raise seedling survival rates on lakeshore dune<li>
-</ul>
+
 
 
 <h3>**Environmental Educator** | <i>Environmental Learning Center, Fort Collins, CO</i>                             May - Aug., 2024 </h3>  
@@ -85,5 +85,5 @@ Reinforced existing compost bins for five more years of heavy use</li>
 </ul>
 
 
-[Here is the rest of my resume](data/fed-resume-25.pdf)
+[Here is the rest of my resume](data\fed-resume-25.pdf)
 
