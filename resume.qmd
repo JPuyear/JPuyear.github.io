@@ -4,7 +4,8 @@ toc: false
 ---
 
 <h2>Work Experience</h2>
-<h3>**Conservation Action Facilitator** | <i>John G. Shedd Aquarium, Chicago, IL</i>                             Jun. - Dec., 2025 </h3>
+<h3>**Conservation Action Facilitator** | 
+<i>John G. Shedd Aquarium, Chicago, IL</i>                             Jun. - Dec. 2025 </h3>
 
 </ul>
 <li>Addressed kayak tour guest questions with enthusiastic anecdotes, fueling further curiosity</li>
@@ -18,7 +19,7 @@ toc: false
 </ul>
 
 
-<h3>**Environmental Educator** | <i>Environmental Learning Center, Fort Collins, CO</i>                             May - Aug., 2024 </h3>  
+<h3>**Environmental Educator** | <i>Environmental Learning Center, Fort Collins, CO</i>                             May - Aug. 2024 </h3>  
 
 </ul>
 <li>Trained five counselors to create biomimicry-themed crafts to illustrate diverse species adaptations</li>
@@ -28,12 +29,12 @@ toc: false
 <li>Administered first aid for minor cuts and bruises
 Integrated compost, watered, seeded, planted, and devised natural pesticides for a 300 square foot community vegetable and native plant garden</li>
 <li>Tailored a weeklong ecology activity plan to second, fourth, and fifth graders, boosting engagement</li>
-<li>Guided willow stake harvesting and cultivation for students
-Reinforced existing compost bins for five more years of heavy use</li>
+<li>Guided willow stake harvesting and cultivation for students </li>
+<li>Reinforced existing compost bins for five more years of heavy use</li>
 </ul>
 
 
-<h3>**Subalpine Forest Field Technician** | <i>Colorado Forest Restoration Institute, Lake City, CO</i>          Jun. - Aug., 2023 </h3>
+<h3>**Subalpine Forest Field Technician** | <i>Colorado Forest Restoration Institute, Lake City, CO</i>          Jun. - Aug. 2023 </h3>
 </ul>
 <li>Navigated over 500 miles of 4WD roads to reach nearly 100 plots throughout western Colorado</li>
 <li>Collected snowshoe hare scat to predicting lynx presence, across the Western Slope</li>
@@ -43,7 +44,7 @@ Reinforced existing compost bins for five more years of heavy use</li>
 </ul>
 
 <h2>Academic Involvement</h2>
-<h3>**Honors Thesis Project**: Campbell Creek Wetlands  | <i>Livermore, CO</i>                                            Jun. - Nov., 2024 </h3>
+<h3>**Honors Thesis Project**: Campbell Creek Wetlands  | <i>Livermore, CO</i>                                            Jun. - Nov. 2024 </h3>
 <h6>3 Credit hours</h6>
 
 <ul>
@@ -61,7 +62,7 @@ Reinforced existing compost bins for five more years of heavy use</li>
 
 <h2>Volunteering</h2>
 
-<h3> **Crew Lead and Volunteer for Wildlands Restoration Volunteers (WRV)** | <i>Colorado</i>       Sept.,  2021 - Present</h3>
+<h3> **Crew Lead and Volunteer for Wildlands Restoration Volunteers (WRV)** | <i>Colorado</i>       Sept.  2021 - Present</h3>
 
 <h6>Hours volunteered: 270</h6>
 
